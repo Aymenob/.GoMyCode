@@ -1,0 +1,62 @@
+nav{
+ 
+    display:inline;
+    font-family: 'Roboto';
+    font-weight: 400;
+}
+nav a{
+color:grey
+}
+nav a:hover{
+    color:brown
+    }
+hr{
+    width:90%
+}
+body{
+     background-color:black;
+     font-family:'Roboto';font-weight:400;font-size: 20px ;
+
+
+color:white;
+}
+.M1{
+    margin-left:1.9cm ;
+}
+.M2{
+    margin-left:3.5cm ;word-spacing: 1cm;
+}
+section{
+    margin-left:3.5cm ;margin-right:3.5cm ;
+}
+.img1{
+    width:240px;
+}
+.img2{
+    width:260px;
+}
+.img3{
+    width:130px;
+}
+.img{
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20% ;
+}
+.video{
+    width:700px ;height:500px
+}
+.iaces{
+    border:solid;  height:500px;
+}
+.resume{
+    padding-top:40cm ;margin-bottom: 4cm;
+    color:grey
+}
+.booking{
+    border:8px solid white;width:80%;
+}
+.submit{
+    height:25px; width:100px
+}
